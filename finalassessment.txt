@@ -1,0 +1,45 @@
+What is the Saga pattern?
+d) A pattern for handling failures and retries in messaging systems
+
+Which statement best describes the Saga pattern?
+c) It guarantees strong consistency across distributed systems
+
+In the Saga pattern, what is a compensating transaction?
+a) A transaction that compensates for a failed transaction and undoes its effects
+
+Which of the following is a characteristic of the Saga pattern?
+a) It guarantees ACID properties for distributed transactions
+
+What is the main advantage of using the Saga pattern?
+d) It eliminates the possibility of data inconsistency in distributed systems
+
+What does CQRS stand for?
+a) Command Query Responsibility Segregation
+
+What is the main idea behind CQRS?
+a) Separating the responsibility of handling commands from the responsibility of handling queries
+
+Which of the following statements best describes the relationship between commands and queries in CQRS?
+a) Commands modify the state of the system, while queries retrieve data from the system.
+
+
+What is an advantage of using CQRS in an application architecture?
+d) It allows for real-time data synchronization across multiple databases.
+
+Which of the following is a typical component in a CQRS-based system?
+d) All of the above
+
+What is the primary purpose of transaction management in Spring?
+c) To manage concurrent access to shared resources
+
+Which annotation is commonly used to define transactional behavior in Spring?
+a) @Transactional
+
+What is the default propagation behavior of Spring transactions?
+a) REQUIRED
+
+Which transaction isolation level provides the highest level of concurrency but may result in non-repeatable reads and phantom reads?
+d) SERIALIZABLE
+
+Which of the following is a common strategy for transaction management in Spring?
+c) Both a) and b)
