@@ -1,0 +1,89 @@
+What is Spring Cloud?
+b) A distributed system framework for building cloud-native applications
+
+Which of the following components is used for service discovery in Spring Cloud?
+c) Netflix Eureka
+
+Which Spring Cloud component provides a distributed configuration management solution?
+c) Spring Cloud Config
+
+Which protocol is commonly used for communication between microservices in Spring Cloud?
+a) HTTP
+
+Which Spring Cloud component is used for client-side load balancing?
+d) Spring Cloud Load Balancer
+
+Which Spring Cloud component provides fault tolerance and resilience for distributed systems?
+a) Spring Cloud Netflix
+
+Which messaging middleware is commonly used with Spring Cloud Stream?
+a) RabbitMQ
+
+Which of the following is a key principle of Spring Cloud?
+a) Loose coupling
+
+Which Spring Cloud component provides an API gateway for routing and filtering requests?
+a) Spring Cloud Gateway
+
+Which tool can be used for monitoring and distributed tracing in Spring Cloud applications?
+a) Spring Boot Actuator
+
+Which authentication and authorization framework is commonly used with Spring Cloud?
+d) SAML (Security Assertion Markup Language)
+
+Which component in Spring Cloud provides circuit-breaking and fault tolerance for microservices?
+c) Spring Cloud Circuit Breaker
+
+Which messaging protocol is used by default in Spring Cloud Stream?
+a) AMQP (Advanced Message Queuing Protocol)
+
+Which Spring Cloud component provides distributed tracing capabilities for microservices?
+c) Spring Cloud Contract
+
+Which Spring Cloud component enables centralized configuration management for microservices?
+b) Spring Cloud Config
+
+Which protocol is commonly used for inter-service communication in Spring Cloud?
+a) HTTP
+
+Which component in Spring Cloud provides dynamic routing and load balancing capabilities?
+a) Spring Cloud Load Balancer
+
+Which Spring Cloud component is used for event-driven microservices?
+d) Spring Cloud Stream
+
+Which database is commonly used as a service registry in Spring Cloud?
+b) MySQL
+
+Which tool can be used for centralized logging in Spring Cloud applications?
+a) Log4j
+
+Which component of Spring Cloud provides distributed tracing capabilities for microservices?
+c) Spring Cloud Sleuth
+
+What is the purpose of Spring Cloud Circuit Breaker?
+c) To enable fault tolerance and resilience in microservices
+
+Which protocol is commonly used for inter-process communication in Spring Cloud?
+a) REST
+
+Which Spring Cloud component is used for centralized logging and monitoring?
+c) Spring Cloud Gateway
+
+What is the purpose of the Spring Cloud Config server?
+a) To provide a centralized configuration management solution
+
+Which Spring Cloud component provides a message-driven microservices framework?
+a) Spring Cloud Stream
+
+Which of the following is NOT a supported service registry in Spring Cloud?
+c) ZooKeeper
+
+What is the purpose of the Spring Cloud Data Flow project?
+a) To provide distributed caching for microservices
+
+Which component of Spring Cloud provides support for declarative REST clients?
+d) Spring Cloud Feign
+
+Which Spring Cloud component provides a circuit breaker implementation based on the Hystrix library?
+b) Spring Cloud Netflix
